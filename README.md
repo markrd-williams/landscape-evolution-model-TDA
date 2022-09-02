@@ -7,6 +7,7 @@ To install the required conda packages to use the environment.yml file included.
 
 ```
 conda env create --file environment.yml
+conda activate LEMvineyard
 ```
 
 There are some dependencies which are not available on conda.
